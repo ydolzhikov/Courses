@@ -1,0 +1,5 @@
+БАЗА И УЧЕБНЫЕ МАТЕРИАЛЫ
+https://github.com/ydolzhikov/Courses
+
+УТИЛИТА ДЛЯ РАБОТЫ С БАЗОЙ
+http://sqlcetoolbox.codeplex.com/releases/view/104096
